@@ -22,9 +22,9 @@ This repository contains SQL query projects for various databases. Each project 
    - **Details**: [VibeStream2/README.md](VibeStream2/README.md)
 
 4. **Project 4: Network Analysis and Engagement**
-   - **Description**: Analyzes social network connections and engagement metrics.
-   - **Folder**: [project_4](project_4/)
-   - **Details**: [project_4/README.md](project_4/README.md)
+   - **Description**: Analyzes various aspects of travel and customer behavior
+   - **Folder**: [TakeHomeAssesment](Gugava_Nugzari_traveltide_takehome.sql)
+   - **Details**: [TakeHomeAssesment/README.md](project_4/README.md)
 
 ## How to Use
 
