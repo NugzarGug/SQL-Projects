@@ -23,8 +23,8 @@ This repository contains SQL query projects for various databases. Each project 
 
 4. **Project 4: Network Analysis and Engagement**
    - **Description**: Analyzes various aspects of travel and customer behavior
-   - **Folder**: [TakeHomeAssesment](Gugava_Nugzari_traveltide_takehome.sql)
-   - **Details**: [TakeHomeAssesment/README.md](project_4/README.md)
+   - **Folder**: [TakeHomeAssesment/Gugava_Nugzari_traveltide_takehome.sql](TakeHomeAssesment/Gugava_Nugzari_traveltide_takehome.sql)
+   - **Details**: [TakeHomeAssesment/README.md](TakeHomeAssesment/README.md)
 
 ## How to Use
 
