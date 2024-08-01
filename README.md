@@ -13,8 +13,8 @@ This repository contains SQL query projects for various databases. Each project 
 
 2. **Project 2: User Behavior Analysis**
    - **Description**: Analyzes user activity and behavior on a social media platform.
-   - **Folder**: [RevRoll3/GugavaNugzari_RevRoll3.sql](RevRoll3/GugavaNugzari_RevRoll3.sql)
-   - **Details**: [RevRoll3/README.md](RevRoll3/README.md)
+   - **Folder**: [RevRoll%203/GugavaNugzari_RevRoll%203.sql](RevRoll%203/GugavaNugzari_RevRoll3.sql)
+   - **Details**: [RevRoll\ 3/README.md](RevRoll\ 3/README.md)
 
 3. **Project 3: Vibestream Platform Insights**
    - **Description**: Insights into user posts and interactions on Vibestream.
