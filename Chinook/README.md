@@ -19,7 +19,7 @@ This repository contains SQL queries for various data analysis tasks. All querie
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/SQL-Queries-Project.git
+   git clone https://github.com/NugzarGug/SQL-Queries-Project.git
 Navigate to the Directory:
 bash
 Copy code
