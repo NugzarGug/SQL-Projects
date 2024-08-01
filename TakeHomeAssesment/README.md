@@ -19,10 +19,14 @@ This repository contains SQL queries that analyze various aspects of travel and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/Travel-Behavior-Analysis.git
+   git clone https://github.com/YourUsername/SQL-Queries-Project.git
 Navigate to the Directory:
 bash
 Copy code
 cd Travel-Behavior-Analysis
 Review Queries:
 Open the Gugava_Nugzari_traveltide_takehome.sql file to view the SQL queries.
+## Contact
+
+- **Email**: nugzargug@gmail.com
+- **GitHub**: [NugzarGug](https://github.com/NugzarGug)
