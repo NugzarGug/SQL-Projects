@@ -19,8 +19,7 @@ This repository contains SQL queries addressing various analytical tasks related
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YourUsername/SQL-Queries-Project.git](https://github.com/NugzarGug/SQL-Projects.git)
-Navigate to the Directory:
+   git clone https://github.com/YourUsername/SQL-Queries-Project.git
 bash
 Copy code
 cd SQL-Queries-Project
