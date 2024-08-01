@@ -12,7 +12,7 @@ This repository contains SQL query projects for various databases. Each project 
    - **Details**: [Chinook/README.md](Chinook/README.md)
 
 2. **Project 2: User Behavior Analysis**
-   - **Description**: Analyzes user activity and behavior on a social media platform.
+   - **Description**: Various analytical tasks related to installer and customer data.
    - **Folder**: [RevRoll%203/GugavaNugzari_RevRoll%203.sql](RevRoll%203/GugavaNugzari_RevRoll3.sql)
    - **Details**: [RevRoll%203/README.md](RevRoll%203/README.md)
 
