@@ -30,4 +30,4 @@ This repository contains SQL query projects for various databases. Each project 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/SQL-Query-Projects.git
+   git clone https://github.com/YourUsername/SQL-Projects.git
