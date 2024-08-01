@@ -18,8 +18,8 @@ This repository contains SQL query projects for various databases. Each project 
 
 3. **Project 3: Vibestream Platform Insights**
    - **Description**: Insights into user posts and interactions on Vibestream.
-   - **Folder**: [Vibestream2/NugzariGugava_VibestreamII.sql](Vibestream2/NugzariGugava_VibestreamII.sql.sql)
-   - **Details**: [Vibestream2/README.md](Vibestream2/README.md)
+   - **Folder**: [VibeStream2/NugzariGugava_VibestreamII.sql](VibeStream2/NugzariGugava_VibestreamII.sql.sql)
+   - **Details**: [VibeStream2/README.md](VibeStream2/README.md)
 
 4. **Project 4: Network Analysis and Engagement**
    - **Description**: Analyzes social network connections and engagement metrics.
