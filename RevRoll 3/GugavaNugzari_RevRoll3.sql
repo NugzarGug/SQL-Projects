@@ -135,7 +135,7 @@ and install_date = prev_date2 + interval '2 day'
 and install_date = prev_date3 + interval '3 day';
 
                      
-/*Question #3: 
+/*Question #5: 
 Write a solution that will, for each user_id of users with greater than 10 flights, find out the largest window of days between the departure time
 of a flight and the departure time of the next departing flight taken by the user.
 
