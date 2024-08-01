@@ -19,7 +19,7 @@ This repository contains SQL queries that analyze various aspects of travel and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/SQL-Queries-Project.git
+   git clone https://github.com/NugzarGug/SQL-Projects.git
 Navigate to the Directory:
 bash
 Copy code
