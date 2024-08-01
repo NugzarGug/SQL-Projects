@@ -14,7 +14,6 @@ This repository contains SQL queries addressing various analytical tasks related
 2. **Customer Transactions**: Find the third transaction of each customer where spending on the preceding two transactions is lower than the third.
 3. **Most Expensive Parts**: Report the most expensive part in each order, only including installed orders.
 4. **Consecutive Installations**: Find installers who have completed installations for at least four consecutive days.
-5. **Flight Windows**: For users with more than 10 flights, find the largest window of days between flight departures.
 
 ## How to Use
 
