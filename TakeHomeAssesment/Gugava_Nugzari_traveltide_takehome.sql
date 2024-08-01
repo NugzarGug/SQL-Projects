@@ -95,12 +95,4 @@ group by 1
 order by 3 desc
 /* Three airports stand out with a large number of travelers, this is JFK, LGA, LAX */
 
-/* 4.a Can you make any strategic recommendations based on your answers to the questions above?
-
-1. can give additional discount for travelers age 18-30 and 50-60 for stimulate them for buying more trips
-2. Conduct a study of how discounts affect sales in groups of singles and childless people and married
-   people with children to optimize supply and maximize income in these groups.
-3. Conduct research on how offering an additional discount will affect quantity of the abondoned sessions
-   between women
-4. Not give discounts if people flying from JFK, LGA, LAX for maximazing the income
 
